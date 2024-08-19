@@ -10,3 +10,5 @@
 # Ignore all database files
 *.db
 
+*.zip
+*.xml
