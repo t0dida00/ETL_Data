@@ -1,0 +1,12 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all JSON files
+*.json
+
+# Ignore all TXT files
+*.txt
+
+# Ignore all database files
+*.db
+
